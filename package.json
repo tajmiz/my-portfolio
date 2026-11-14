@@ -3,18 +3,6 @@
   "version": "1.0.0",
   "description": "Executive & Quantitative Finance Portfolio for Md. Dilshad Uddin Taj",
   "main": "index.html",
-  "scripts": {
-    "start": "npx serve .",
-    "build": "echo 'Static portfolio ready for deployment'"
-  },
-  "keywords": [
-    "portfolio",
-    "finance",
-    "aiub",
-    "econometrics",
-    "investment-banking",
-    "financial-analysis"
-  ],
   "author": "Md. Dilshad Uddin Taj <md929taj@gmail.com>",
   "license": "MIT"
 }
